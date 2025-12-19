@@ -9,6 +9,8 @@ public class Main {
         // 사용자 입력을 받기 위한 Scanner 객체 생성
         Scanner sc = new Scanner(System.in);
 
+        System.out.println("프로그램을 시작합니다.");
+
         // 올바른 성적이 입력될 때까지 반복
         while (true) {
 
